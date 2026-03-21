@@ -388,7 +388,7 @@ Edge locations are **closer to users and u**sed by **CloudFront (CDN)** to deliv
 
       Example: New York, Delhi, London
 
-![image.png](image.png)
+![image.png](images/image.png)
 
 # Ways to access AWS
 
@@ -422,11 +422,11 @@ aws s3 ls
 
 Used for- automation, scripting
 
-![image.png](image%201.png)
+![image.png](images/image1.png)
 
 ---
 
-![image.png](image%202.png)
+![image.png](images/image2.png)  
 
 ## 3. AWS SDK (Programmatic Access)
 

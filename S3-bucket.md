@@ -171,7 +171,7 @@ minutes/hours Minutes to hours | Minutes to hours |
 | S3 Glacier Deep | Lowest | Cold storage — long-term
 archive | 12-48 hours |
 
-![image.png](image%203.png)
+![image.png](images/image3.png)
 
 → S3 can change and deploy the static websites
 
